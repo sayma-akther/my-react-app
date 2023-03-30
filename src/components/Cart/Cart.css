@@ -1,0 +1,9 @@
+.cart{
+  background: rgba(255, 153, 0, 0.3);
+  padding: 24px;
+  position: sticky;
+  top: 0;
+}
+.cart h4{
+  text-align: center;
+}
